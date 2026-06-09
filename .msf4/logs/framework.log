@@ -1,0 +1,146 @@
+[06/02/2026 15:22:09] [e(0)] core: Failed to connect to the database: No database YAML file
+[06/02/2026 15:23:04] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 15:23:04] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 15:23:04] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 15:23:04] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 15:23:04] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 15:23:05] [e(0)] core: Errno::ENOENT : No such file or directory @ rb_sysopen - /path/to/your/image.jpg
+/usr/share/metasploit-framework/vendor/bundle/ruby/3.3.0/gems/rex-bin_tools-0.1.12/lib/rex/peparsey/pebase.rb:1162:in `initialize'
+/usr/share/metasploit-framework/vendor/bundle/ruby/3.3.0/gems/rex-bin_tools-0.1.12/lib/rex/peparsey/pebase.rb:1162:in `new'
+/usr/share/metasploit-framework/vendor/bundle/ruby/3.3.0/gems/rex-bin_tools-0.1.12/lib/rex/peparsey/pebase.rb:1162:in `new_from_file'
+/usr/share/metasploit-framework/lib/msf/util/exe/windows/x86.rb:61:in `to_win32pe'
+/usr/share/metasploit-framework/lib/msf/util/exe.rb:134:in `to_executable_fmt'
+/usr/share/metasploit-framework/lib/msf/core/payload_generator.rb:357:in `format_payload'
+/usr/share/metasploit-framework/lib/msf/core/payload_generator.rb:434:in `generate_payload'
+/usr/bin/msfvenom:480:in `<main>'
+[06/02/2026 15:34:23] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 15:34:23] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 15:34:23] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 15:34:23] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 15:34:23] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 15:34:24] [e(0)] core: Errno::ENOENT : No such file or directory @ rb_sysopen - /path/to/output/bot.exe
+/usr/bin/msfvenom:494:in `initialize'
+/usr/bin/msfvenom:494:in `open'
+/usr/bin/msfvenom:494:in `<main>'
+[06/02/2026 16:50:07] [e(0)] core: Failed to connect to the database: No database YAML file
+[06/02/2026 16:52:07] [e(0)] core: /usr/share/metasploit-framework/modules/auxiliary/scanner/msmail/host_id.go failed to load - RuntimeError Unable to load module as the following runtime was not found on the path: go
+[06/02/2026 16:52:07] [e(0)] core: /usr/share/metasploit-framework/modules/auxiliary/scanner/msmail/exchange_enum.go failed to load - RuntimeError Unable to load module as the following runtime was not found on the path: go
+[06/02/2026 16:52:07] [e(0)] core: /usr/share/metasploit-framework/modules/auxiliary/scanner/msmail/onprem_enum.go failed to load - RuntimeError Unable to load module as the following runtime was not found on the path: go
+[06/02/2026 16:52:43] [w(0)] core: The following modules could not be loaded!
+[06/02/2026 16:52:43] [w(0)] core: 	/usr/share/metasploit-framework/modules/auxiliary/scanner/msmail/host_id.go
+[06/02/2026 16:52:43] [w(0)] core: 	/usr/share/metasploit-framework/modules/auxiliary/scanner/msmail/exchange_enum.go
+[06/02/2026 16:52:43] [w(0)] core: 	/usr/share/metasploit-framework/modules/auxiliary/scanner/msmail/onprem_enum.go
+[06/02/2026 16:53:39] [e(0)] core: Failed to open history file: /home/kali/.msf4/history with error: No such file or directory @ rb_sysopen - /home/kali/.msf4/history
+[06/02/2026 16:53:42] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:53:42] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:53:42] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:53:42] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:56:21] [e(0)] core: /usr/share/metasploit-framework/modules/auxiliary/scanner/msmail/exchange_enum.go failed to load - RuntimeError Unable to load module as the following runtime was not found on the path: go
+[06/02/2026 16:56:21] [w(0)] core: Removing invalid module reference from cache: scanner/msmail/exchange_enum
+[06/02/2026 16:56:21] [e(0)] core: /usr/share/metasploit-framework/modules/auxiliary/scanner/msmail/host_id.go failed to load - RuntimeError Unable to load module as the following runtime was not found on the path: go
+[06/02/2026 16:56:21] [w(0)] core: Removing invalid module reference from cache: scanner/msmail/host_id
+[06/02/2026 16:56:21] [e(0)] core: /usr/share/metasploit-framework/modules/auxiliary/scanner/msmail/onprem_enum.go failed to load - RuntimeError Unable to load module as the following runtime was not found on the path: go
+[06/02/2026 16:56:21] [w(0)] core: Removing invalid module reference from cache: scanner/msmail/onprem_enum
+[06/02/2026 16:56:43] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:56:43] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:56:43] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:56:43] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:56:43] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:56:43] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:56:43] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:56:43] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:57:39] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:57:39] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:57:39] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:57:39] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:57:39] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:57:39] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:57:39] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:57:39] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:57:42] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:57:42] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:57:42] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:57:42] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:57:42] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:57:42] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:57:42] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:57:42] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:58:45] [e(0)] core: Exploit failed (multi/handler): Interrupt  - Interrupt 
+[06/02/2026 16:58:48] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:58:48] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:58:48] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:58:48] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:58:48] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:58:48] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:58:48] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:58:48] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:59:09] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:59:09] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:59:09] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:59:09] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:59:09] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:59:09] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:59:09] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:59:09] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:59:09] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:59:09] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:59:09] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:59:09] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:59:09] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:59:09] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:59:09] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 16:59:09] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:19:07] [e(0)] core: Exploit failed (multi/handler): Interrupt  - Interrupt 
+[06/02/2026 17:28:19] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:28:19] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:28:19] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:28:19] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:28:19] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:28:19] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:28:19] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:28:19] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:28:19] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:28:19] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:28:19] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:29:22] [e(0)] core: Failed to connect to the database: No database YAML file
+[06/02/2026 17:29:35] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:29:35] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:29:35] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:29:35] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:29:35] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:29:35] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:29:35] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:29:35] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:30:17] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:30:17] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:30:17] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:30:17] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:30:17] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:30:17] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:30:17] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:30:17] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:30:17] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:30:17] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:30:17] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:30:17] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:30:17] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:30:17] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:30:17] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 17:30:17] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 18:13:13] [e(0)] core: Exploit failed (multi/handler): Interrupt  - Interrupt 
+[06/02/2026 19:25:37] [e(0)] core: Failed to connect to the database: No database YAML file
+[06/02/2026 19:45:09] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 19:45:09] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 19:45:09] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 19:45:09] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 19:45:09] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 19:45:47] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 19:45:47] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 19:45:47] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 19:45:47] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 19:45:47] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 19:45:47] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 19:45:47] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 19:45:47] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 19:45:47] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
+[06/02/2026 19:45:47] [e(0)] core: NetworkInterface::Error Unable to retrieve adapter info via getifaddrs
