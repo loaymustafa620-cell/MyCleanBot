@@ -9,9 +9,8 @@ from telebot import types
 
 # ================================================================= #
 # 1. CONFIGURATION                                                    #
-# ================================================================= #
-
-TOKEN = "8818180955:AAEbZgFRKFvNXDdeSvF0KQLnZW94DVDNvLI"
+# ================================================================
+TOKEN ="8818180955:AAEbZgFRKFvNXDdeSvF0KQLnZW94DVDNvLI"
 bot = telebot.TeleBot(TOKEN)
 
 DEVELOPER_ID   = 6320384889

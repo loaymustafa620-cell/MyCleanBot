@@ -243,3 +243,56 @@ apt update --fix-missing
 apt install metasploit-framework -y
 pkg install metasploit
 msfconsole
+python main.py
+​pkg install git
+git config --global user.email "loaymustafa620@example.com
+"git config --global user.name oaymustafa620-cell
+git config --global user.email loaymustafa620@example.com
+"git config --global user.name oaymustafa620-cell
+git config --global loaymustafa620-cell
+git config --global loaymustafa620-cell
+sudo apt update
+sudo apt install git
+git config --global user.name "loaymustafa620-cell"
+git config --global user.email "loaymustafa620@example.com"
+git config --list
+git remote remove origin
+git remote -v
+git remote add origin https://github.com/loaymustafa620-cell/Termux_Bot2.git
+git remote -v
+git add 
+git commit -m "First upload for the new bot"
+git branch -M main
+git push -u origin main
+requirements.txt
+git add requirements.txt
+git commit -m "Add requirements.txt"
+git push
+nano requirements.txt
+git add requirements.txt
+git commit -m "Add requirements.txt"
+git push
+rm -rf /sdcard/path_to_your_bot
+nano main.py
+> main.py
+rm ultimate_bot_storage.db
+python main.py
+nano main.py
+rm ultimate_bot_storage.db
+python main.py
+rm -rf
+rm -rf ~/folder_name
+folder_name
+mkdir Clean_Bot
+mkdir MyCleanBot
+cd MyCleanBot
+nano main.py
+python main.py
+echo "pyTelegramBotAPI" > requirements.txt
+git remote add origin https://github.com/loaymustafa620-cell/MyCleanBot.git
+git push -u origin main
+git remote remove origin
+git remote add origin https://github.com/loaymustafa620-cell/MyCleanBot.git
+git remote -v
+git push -u origin main
+python main.py
